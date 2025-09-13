@@ -28,7 +28,7 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
 ## INSTALLATION SCRIPT // USE ONLY DEBIAN 11 FOR STABILITY
 
   ```html
-  apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/basikal123/ssh/main/setup-lite.sh && chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh
+  apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/huaweipadu/vless_ssh/main/setup-lite.sh && chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh
 
   ```
 ## INSTALLATION LINK IF ASKED
